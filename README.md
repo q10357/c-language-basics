@@ -2,4 +2,4 @@
 
 ---------- HELLO ------------
 
-A collection of files that describe some core C functionality.
+Collection that describe some core C functionality.
