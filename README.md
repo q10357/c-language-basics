@@ -1,5 +1,3 @@
-# CLanguageSeries
-
----------- HELLO ------------
+## CLanguageSeries
 
 Collection that describe some core C functionality.
